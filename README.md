@@ -4,6 +4,7 @@
 
 📧 zk.032918@gmail.com 
 [GitHub](https://github.com/zainikhan999/) | [LinkedIn](https://www.linkedin.com/in/zainabkhan999/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zainikhan999)](https://github.com/zainikhan999/github-profile-trophy)
 
 ---
 
@@ -44,7 +45,7 @@ Riphah International University, Gulberg Greens, Islamabad
 
 ---
 
-**2. Pakistan Tourism Chatbot  
+**2. Pakistan Tourism Chatbot**
 - Implemented **RAG pipeline** combining Mistral AI with Snowflake for fact-based, context-aware responses.  
 - Enabled **document retrieval from official government sources** for trustworthy tourism guidance.  
 
@@ -76,8 +77,6 @@ Riphah International University, Gulberg Greens, Islamabad
 - Email: zk.032918@gmail.com  
 
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=zainikhan999)](https://github.com/zainikhan999/github-profile-trophy)
-
 <!---
 zainikhan999/zainikhan999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
