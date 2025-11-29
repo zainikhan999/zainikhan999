@@ -3,6 +3,8 @@
 - Challanges make me drive crazy
 - I am working on myself in Ai /ML + Web Development (Next JS /MERN)
 - I have deployed real time projects , got real users (I know the industry loves deployed project!)
+
+  Have a look at my insights (Don't Judge me ! XD)
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=zainikhan999)](https://github.com/zainikhan999/github-profile-trophy)
 
