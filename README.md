@@ -1,7 +1,9 @@
 - Hi, I’m @zainikhan999
-- I’m a WordPress Designer having 1 year experience in designing websites
-- I’m currently learning Artifical Intelligence
-- MERN Stack |React Native | Artifical Intelligence are my current skillset
+- I'm a passionate person , love to build things
+- Challanges make me drive crazy
+- I am working on myself in Ai /ML + Web Development (Next JS /MERN)
+- I have deployed real time projects , got real users (I know the industry loves deployed project!)
+  
   [![trophy](https://github-profile-trophy.vercel.app/?username=zainikhan999)](https://github.com/zainikhan999/github-profile-trophy)
 
 <!---
