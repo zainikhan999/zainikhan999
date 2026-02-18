@@ -16,7 +16,7 @@ Riphah International University, Gulberg Greens, Islamabad
 ---
 
 ## 💼 Experience
-**Ai Engineer -Texinity Technologies**
+**Ai Engineer -Texinity Technologies** </br>
 *Jan 2026 - Present*
 
 **Data Science Intern – 10 Pearls Pakistan**  
