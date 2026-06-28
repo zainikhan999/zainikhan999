@@ -11,7 +11,7 @@
 ## 🎓 Education
 **BS Computer Science**  
 Riphah International University, Gulberg Greens, Islamabad  
-**2022 – Present | CGPA:** 3.98 / 4.00  
+**2022 – 2025 | CGPA:** 3.98 / 4.00  
 
 ---
 
